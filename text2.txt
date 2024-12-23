@@ -1,0 +1,5 @@
+Areas to Focus On:
+Conflict Resolution: As you collaborate more, you’ll face merge conflicts. Learning how to resolve them will be important.
+Advanced Git Features: Explore topics like rebase, cherry-pick, stashing, and tags to handle complex scenarios.
+GitHub Workflow: Once you're comfortable with Git commands, try using pull requests, forks, and issues for collaborative projects.
+Git Ignore: Make sure you understand .gitignore to exclude unnecessary files from being tracked by Git.
